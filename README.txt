@@ -1,4 +1,4 @@
-Line 1 changed in CSS branch
+Line 1 changed in master branch
 HTML files added
 New line added in master branch
 
