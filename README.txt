@@ -1,2 +1,2 @@
-Folder containing HTML,CSS,JS assignments
+Line 1 changed in CSS branch
 HTML files added
